@@ -1,0 +1,14 @@
+#sklinet-nette-voter-filter input,
+#sklinet-nette-voter-filter select {
+    padding: 3px !important;
+    border: 1px solid grey !important;
+}
+
+#sklinet-nette-voter-filter {
+    margin-bottom: 10px !important;
+}
+
+#sklinet-nette-voter-table tr.empty-row td {
+    background-color: #F4F3F1 !important;
+    height: 20px !important;
+}

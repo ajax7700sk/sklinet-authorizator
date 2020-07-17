@@ -1,0 +1,7 @@
+services:
+    authorizator:
+    	factory: SklinetNette\Authorizator\Authorizator
+    latteFunctions:
+        factory: SklinetNette\Authorizator\Latte\Functions
+    votersLoader:
+        factory: SklinetNette\Authorizator\VotersLoader

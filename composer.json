@@ -25,6 +25,9 @@
   "require-dev": {
   },
   "autoload": {
+    "classmap": [
+      "src"
+    ],
     "psr-4": {
       "SklinetNette\\Authorizator\\": "src/"
     }
